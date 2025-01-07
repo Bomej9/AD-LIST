@@ -1,3 +1,7 @@
 #20250107
 0.0.0.0 flashtalking.com
+0.0.0.0 cdn.flashtalking.com
 0.0.0.0 v.wpimg.pl
+flashtalking.com
+cdn.flashtalking.com
+v.wpimg.pl
